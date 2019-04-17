@@ -1,0 +1,42 @@
+PODS:
+  - Gloss (2.1.0)
+  - Log (1.0)
+  - PureLayout (3.1.4)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - Static (4.0.0)
+
+DEPENDENCIES:
+  - Gloss
+  - Log
+  - PureLayout
+  - SDWebImage
+  - Static (from `https://github.com/venmo/Static`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Gloss
+    - Log
+    - PureLayout
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Static:
+    :git: https://github.com/venmo/Static
+
+CHECKOUT OPTIONS:
+  Static:
+    :commit: 9a721248d40bd6c18a8ea9d15db94e35c9a87f1e
+    :git: https://github.com/venmo/Static
+
+SPEC CHECKSUMS:
+  Gloss: 13ab6b4b0ff4cb2448466edc957479b1bccea8ba
+  Log: 5e368c9528db07517d18d2d04ff5fe2b6f5a1e21
+  PureLayout: f08c01b8dec00bb14a1fefa3de4c7d9c265df85e
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  Static: 3204aad2dc648cfe08dc7aa4a26d65ee37e4853a
+
+PODFILE CHECKSUM: 022f6dbcb4c8647e660c57238dd5d088abbbaab7
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,29 @@
+PODS:
+  - Gloss (2.1.1)
+  - Log (1.0)
+  - Realm (3.14.1):
+    - Realm/Headers (= 3.14.1)
+  - Realm/Headers (3.14.1)
+  - RealmSwift (3.14.1):
+    - Realm (= 3.14.1)
+  - Static (3.0.2)
+  - SwiftLint (0.31.0)
+
+DEPENDENCIES:
+  - Gloss
+  - Log
+  - RealmSwift
+  - Static
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  Gloss: 9df15229b2f6484c14752a738474fd2528b4c5cd
+  Log: 5e368c9528db07517d18d2d04ff5fe2b6f5a1e21
+  Realm: e12c9c2387d05c5bba3a9c394838f5870e85763b
+  RealmSwift: a82eab9b04c3e1616082c7e17aa300740847769c
+  Static: 1542d33a345105ae57e8fffd2d5200080d99f131
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+
+PODFILE CHECKSUM: d793dde8da4d2ddd01ac313d4af5063d613bfe2e
+
+COCOAPODS: 1.2.0
